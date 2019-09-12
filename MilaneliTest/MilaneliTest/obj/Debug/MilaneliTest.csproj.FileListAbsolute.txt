@@ -1,0 +1,4 @@
+Y:\Leonardo\Pessoal\Milaneli project\MilaneliTest\MilaneliTest\bin\MilaneliTest.dll
+Y:\Leonardo\Pessoal\Milaneli project\MilaneliTest\MilaneliTest\bin\MilaneliTest.pdb
+Y:\Leonardo\Pessoal\Milaneli project\MilaneliTest\MilaneliTest\obj\Debug\MilaneliTest.dll
+Y:\Leonardo\Pessoal\Milaneli project\MilaneliTest\MilaneliTest\obj\Debug\MilaneliTest.pdb
